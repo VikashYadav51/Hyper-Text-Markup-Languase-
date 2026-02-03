@@ -1,0 +1,111 @@
+body{
+    background-color: #f0f0f0;
+    color: black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 5px 5px;
+    margin: 2px 4px 5px 5px;
+}
+
+body .para1{
+    display: block;
+    background-color: #f0f0f0;
+    font-size: 30px;
+    color: red;
+    padding: 8px 50px 6px 50px;
+    margin: 20px 20px 40px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    text-align: left;
+    width: 40%;
+    height: 50%;
+}
+
+ol{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 5px 5px;
+    margin: 2px 4px 5px 5px;
+}
+
+ol li{
+    margin-bottom: 10px;
+}
+
+ol p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 5px 5px;
+    margin: 2px 4px 5px 5px;
+    color: red;
+}
+
+ol ol{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 5px 5px;
+    margin: 2px 4px 5px 50px;
+    color: red;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+ul{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 5px 5px;
+    margin: 2px 4px 5px 5px;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
+
+
+
+a{
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px 4px 4px 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 20px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px 10px 15px 20px;
+    background-color: #f0f0f0;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+}
+
+img {
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-left: 20px;
+    padding-left: 20px;
+    height: 300px;
+    width: 100%;
+}
+
+
+video{
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    margin-left: 2px;
+    width: 30%;
+    height: 30%;
+}
+
